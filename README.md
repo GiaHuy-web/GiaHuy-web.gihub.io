@@ -1,2 +1,2 @@
 # GiaHuy-web.gihub.io
-web design
+web design for everyone
